@@ -31,7 +31,7 @@ function currentLine(katzDeliLine){
     while(n<katzDeliLine.length){
       //return `${n+1}. katzDeliLine[n]`
       customer=katzDeliLine[n]
-      return`The line is currently: ${customer}`
+      return`The line is currently: ${n} ${customer}`
       return n++
       //n++
     }
