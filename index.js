@@ -37,5 +37,5 @@ function currentLine(katzDeliLine){
 
     }
   }
-  return katzDeli
+  return "The line is currently: "+katzDeli
 }
