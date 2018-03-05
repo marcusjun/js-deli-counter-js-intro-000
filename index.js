@@ -26,7 +26,7 @@ function currentLine(katzDeliLine){
     return "The line is currently empty."
   }
   else {
-    return "The line is currently: "
+    console.log("The line is currently: ")
     while(n<katzDeliLine.length){
       //return `${n+1}. katzDeliLine[n]`
       return "n+1"
