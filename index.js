@@ -30,8 +30,8 @@ function currentLine(katzDeliLine){
     while(n<katzDeliLine.length){
       //return `${n+1}. katzDeliLine[n]`
       return"The line is currently: "
-      return n
-      n++
+      return n++
+      //n++
     }
   }
 }
