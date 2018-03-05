@@ -29,7 +29,7 @@ function currentLine(katzDeliLine){
     console.log("The line is currently: ")
     while(n<katzDeliLine.length){
       //return `${n+1}. katzDeliLine[n]`
-      return "n+1"
+      return n+1
       n++
     }
   }
